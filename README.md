@@ -1,7 +1,14 @@
 # Deepfake Detection Project
 
-# Link to the model
+## Collaborators:
+kazanova777 https://github.com/kazanova777
+godddame https://github.com/godddame
+
+## Link to the model
 https://drive.google.com/file/d/1HHL3f9Cl8J_tYsMMKwnG3nEtENeY-yKZ/view
+
+## Link to the dataset
+https://www.kaggle.com/competitions/deepfake-detection-challenge/data
 
 ## Overview
 This project focuses on the detection of deepfake videos using machine learning. Deepfakes are sophisticated AI-generated videos that superimpose one person's likeness over another, creating convincing video content that appears real. Our goal is to develop a system that can accurately distinguish between genuine and artificially manipulated videos to prevent the spread of misinformation.
